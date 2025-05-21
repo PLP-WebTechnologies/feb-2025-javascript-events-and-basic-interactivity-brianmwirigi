@@ -1,0 +1,21 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    padding: 2rem;
+    line-height: 1.6;
+  }
+  
+  button {
+    margin: 0.5rem;
+    padding: 0.7rem 1.2rem;
+    cursor: pointer;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .tab-content {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-top: 0.5rem;
+  }
